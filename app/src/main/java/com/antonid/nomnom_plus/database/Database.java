@@ -12,6 +12,8 @@ import android.provider.BaseColumns;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import com.antonid.nomnom_plus.model.Ingredient;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -104,10 +106,27 @@ public class Database {
         }
     }
 
-    /**
-     * Read all quotes from the database.
-     *
-     * @return a List of quotes
-     */
+
+    String[] ingredientColums = {
+            IngredientsTable.ID,
+            IngredientsTable.NAME,
+            IngredientsTable.FOR_WHAT_RECIPES,
+            IngredientsTable.IS_CHECKED
+    };
+
+    public Ingredient getIngredient(String name){
+        Cursor cursor = database.query(IngredientsTable.TABLE_NAME,
+                ingredientColums, IngredientsTable.NAME + "=?",
+                new String[] { name}, null, null, null, null);
+        try {
+            cursor.moveToFirst();
+            Ingredient ingredient = new Ingredient(cursor.getString(1), cursor.getString(2));
+            return ingredient;
+        } catch (NullPointerException e){
+            throw new NullPointerException("Maybe there are not results for this name in database.");
+        } finally {
+            cursor.close();
+        }
+    }
 }
 
