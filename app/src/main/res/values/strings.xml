@@ -1,3 +1,69 @@
 <resources>
-    <string name="app_name">NomNom_plus</string>
+    <string name="app_name">Nom-Nom</string>
+
+    <string name="main_activity_title">Холодильник</string>
+
+
+    <string name="font_fontFamily_medium">sans-serif</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Menuitem</string>
+    <string name="step">ШАГ</string>
+
+
+    //Settings activity----------------------------
+    <string name="chooseLanguage_en">Choose language</string>
+    <string name="chooseLanguage_ru">Выберите язык</string>
+    <string name="onerec">рецепт</string>
+    <string name="twofourrec">рецепта</string>
+    <string name="morerec">рецептов</string>
+    <string name="oneavail">доступен</string>
+    <string name="twoavail">доступно</string>
+    <string name="moreavail">доступно</string>
+
+    <string name="one_product">продукт</string>
+    <string name="two_or_four_products">продукта</string>
+    <string name="more_products">продуктов</string>
+
+    <string name="one_step">ШАГ</string>
+    <string name="two_or_four_steps">ШАГА</string>
+    <string name="more_steps">ШАГОВ</string>
+
+    <string name="one_portion">ПОРЦИЯ</string>
+    <string name="two_or_four_portions">ПОРЦИИ</string>
+    <string name="more_portions">ПОРЦИЙ</string>
+
+
+    <string name="localization_en">Localization</string>
+    <string name="localization_ru">Локализация</string>
+
+    <string name="language_en">Language</string>
+    <string name="language_ru">Язык</string>
+
+    <!--холодильник-->
+    <!--блюдо дня-->
+    <!--все рецепты-->
+    <!--настройки-->
+    <!--оставить отзыв-->
+    <!--справка-->
+
+    <string name="fridge_en">Fridge</string>
+    <string name="fridge_ru">NomApp</string>
+    <string name="dish_of_a_day_en">Dish of a day</string>
+    <string name="dish_of_a_day_ru">Блюдо дня</string>
+    <string name="all_recipes_en">All Recipes</string>
+    <string name="all_recipes_ru">Все рецепты</string>
+    <string name="settings_en">Settings</string>
+    <string name="settings_ru">Настройки</string>
+    <string name="leave_feedback_en">Leave feedback</string>
+    <string name="leave_feedback_ru">Оставить отзыв</string>
+    <string name="about_en">About</string>
+    <string name="about_ru">Справка</string>
+
+    //--------------------------------------
+
+    <string name="go_cook_text">НАЧАТЬ ГОТОВИТЬ!</string>
+
+    <string name="u_can_dont_use_products">Помните, что многие продукты можно заменить или не использовать.
+        Количество порций указано примерное. Приятного аппетита!</string>
+
 </resources>

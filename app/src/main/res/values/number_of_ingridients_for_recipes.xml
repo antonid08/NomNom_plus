@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="number_of_ingridients_for_stuffer_eggs">
+        Здесь ингредиенты.\n
+    </string>
+
+    <string name="number_of_ingredients_for_anchousny_oil">
+        Масло сливочное - 25 г\n
+        Сельдь - 25 г\n
+    </string>
+
+    <string name="number_of_ingredients_for_oranges_or_limes_in_sugar">
+        На 1 кг апельсинов:\n
+        1.5 кг сахара\n
+    </string>
+    
+    <string name="number_of_ingredients_for_orange_juice_with_cream">
+        Желток яичный - 0.5 шт\n
+        Сахар - 2 ст. ложки\n
+        Сок апельсиновый - 0.25 стакана\n
+        Сливки по вкусу\n
+    </string>
+
+    <string name="number_of_ingredients_for_orange_drink">
+        Молоко - 0.75 стакана\n
+        Сок апельсиновый - 0.25 стакана\n
+        Сахар - 1 ст. ложка\n
+    </string>
+
+    <string name="number_of_ingredients_for_anchovies_or_sparts_with_potatoes">
+        5-6 шт. картофеля\n
+        1 ст. ложка растительного масла\n
+        2 ст. ложки уксуса\n
+        Соль и перец по вкусу\n
+    </string>
+
+	<string name="number_of_ingredients_for_tasty_oli_for_fish">
+        1 л растительного масла\n
+        35–50 г  петрушки\n
+        35–50 г  сельдерея\n
+        Пряности\n
+    </string>
+
+	<string name="number_of_ingredients_for_tasty_uksus">
+        1 л уксуса\n
+        100 г эстрагона\n
+        100 г сельдерея\n
+        100 г укропа\n
+    </string>
+
+<string name="number_of_ingredients_for_artishoks">
+        Артишоки\n
+        1 лимон\n
+    </string>
+<string name="number_of_ingredients_for_abricos_juice">
+        3,7 кг абрикосов\n
+        450 г сахара\n
+    </string>
+
+<string name="number_of_ingredients_for_arbus_honey">
+        1 арбуз\n
+    </string>
+<string name="number_of_ingredients_for_babka_iz_belogo">
+	500 г яблок\n
+	1 стакан молока\n
+	1 яйцо\n
+	3/4 стакана сахара\n
+	3 ст. ложки сливочного масла\n
+</string>
+
+<string name="number_of_ingredients_for_baklajani_s_lukom">
+	2 баклажана\n
+	2 головки лука\n
+	3 столовые ложки муки\n
+	1/2 стакана сметаны\n
+	3 столовые ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baklazani_v_smetane">
+	2 баклажана\n
+	1 ст. ложка муки\n
+	1 стакан сметаны\n
+	2 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baklazani_farsh">
+	2 баклажана\n
+	1 ст. ложка муки\n
+	1 стакан сметаны\n
+	2 ст. ложки масла \n
+</string>
+
+<string name="number_of_ingredients_for_baranina_jarenaya">
+	Баранина\n
+	2-3 ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_v_belom_souse">
+	500 г баранины\n
+	600 г картофеля\n
+	2 головки лука\n
+	2 шт. моркови\n
+	1 ст. ложка муки (для соуса). \n
+	1 ст. ложка масла (для соуса). \n
+</string>
+
+<string name="number_of_ingredients_for_baranina_s_zeleni">
+	500 г баранины\n
+	1 стакан фасоли\n
+	1 головку лука\n
+	2 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_s_risom">
+	Баранина\n
+	Лук\n
+	1 стакан риса\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_s_fasoliu">
+	500 г баранины\n
+	1 стакан фасоли\n
+	1 головка лука\n
+	200 г. помидоров\n
+	2 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_baranina_tushonaya_s_ovo">
+	500 г баранины\n
+	600 г картофеля\n
+	2 шт. моркови\n
+	1 головку лука\n
+	1 репу\n
+	200 г. капусты\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_smetana">
+	300 г зеленого салата\n
+	1 свежий огурец\n
+	1 яйцо\n
+	1/2 стакана соуса из сметаны с уксусом\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_oil">
+	300 г зеленого салата\n
+	1/4 стакана соуса из уксуса и растительного масла\n
+</string>
+
+<string name="number_of_ingredients_for_salad_health">
+	2 свежих огурца\n
+	2 сырых моркови\n
+	2 яблока\n
+	2 помидора\n
+	100 г зеленого салата\n
+	1/2 стакана сметаны\n
+	1/4 лимона\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_cucumbers">
+	3 огурца\n
+	1/4 стакана сметаны\n
+	1/2 ст. ложки уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_redis">
+	2–3 пучка редиски\n
+	1 яйцо\n
+	1/2 стакана сметаны\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_tomatos_and_cucum">
+	5–6 помидоров\n
+	2–3 огурца\n
+	2 ст. ложки растительного масла\n
+	3–4 ст. ложки уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_svekla">
+	2–3 шт. столовой свеклы\n
+	2 ст. ложки растительного масла\n
+	1/4 стакана уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salad_kartof">
+	500 г картофеля\n
+	50 г зеленого лука\n
+	2 ст. ложки растительного масла\n
+	1/4 стакана уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_krasnokach_kapusti">
+	500 г. капусты\n
+	1/4 стакана уксуса\n
+	1/2 ст. ложки сахара\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_belokach_kapusti">
+	500 г. капусты\n
+	1/4 стакана уксуса\n
+	1/2 ст. ложки сахара\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_belokach_kap_s_yablokami">
+	500 г. капусты белокочанной\n
+	1 стебель сельдерея\n
+	1 яблоко\n
+	1/4 стакана уксуса\n
+	1/2 ст. ложки сахара\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_kvash_kapusti">
+	500 г. квашеной шинкованной капусты\n
+	1 ст. ложка растительного масла\n
+	1-2 ст. ложки сахара\n
+
+</string>
+
+    <string name="number_of_ingredients_for_salat_vesna">
+	3 яблока\n
+	1 груша\n
+	1  апельсин\n
+	1 мандарин\n
+	1/4 стакана майонеза\n
+	1/4 лимона\n
+	1 ч. ложка сахара (сахарной пудры)\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_myasa">
+	200 г. мяса\n
+	2 огурца\n
+	100 г. зеленого салата\n
+	1/2 стакана майонеза\n
+</string>
+
+<string name="number_of_ingredients_for_salat_s_kolbasoy">
+	200 г. колбасы или ветчины\n
+	3-4 шт. картофеля\n
+	50 г. сельдерея\n
+	75 г. маринованных огурцов\n
+	1 яблоко\n
+	75 г. салата\n
+	1/2 стакана майонеза\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_treski_s_hrenom">
+	250 г филе трески\n
+	4-5 шт. картофеля\n
+	2 огурца\n
+	100 г. хрена\n
+	1/2 стакана майонеза\n
+	2 чайных ложки уксуса\n
+	50 г. зеленого лука\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_treski_s_mayonezom">
+	200 г. филе трески\n
+	50 г. сельдерея\n
+	1 яблоко\n
+	1 пучок редиски\n
+	1 огурец\n
+	100 г. салата\n
+	1/2 стакана майонеза\n
+	1 ст. ложка уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_seldi">
+	Одна некрупная сельдь\n
+	2 шт. вареного картофеля\n
+	1 яблоко\n
+	1 соленый огурец\n
+	1 головку лука\n
+	1 вареная свекла\n
+	1-2 яйца\n
+	3 ст. ложки растительного масла\n
+	2 ст. ложки уксуса\n
+	1 чайная ложка горчицы\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_fasoli">
+	1 стакан фасоли\n
+	2-3 моркови\n
+	75 г. сельдерея\n
+	200 г. салата\n
+	2 ст. ложки растительного масла\n
+	горчица, уксус, сахар - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_vinegret_iz_ovoschey">
+	На 4-5 шт. вареного картофеля:\n
+	1 свеклу\n
+	1 морковь\n
+	2 соленых огурца\n
+	1 свежее или моченое яблоко\n
+	100 г. квашеной капусты\n
+	50 г. зеленого лука\n
+	2-3 ст. ложки растительного масла\n
+	1/4 стакана уксуса\n
+	1 чайную ложку горчицы\n
+	сахар по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_vinegret_iz_fruktov_i_ovoshey">
+	1 яблоко\n
+	1 груша\n
+	1 мандарин\n
+	1 апельсин\n
+	3-4 шт. вареного картофеля\n
+	1 морковь\n
+	1 огурец\n
+	50 г. сельдерея\n
+	50 г. салата\n
+	50 г. горошка\n
+	1/2 стакана майонеза\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_pertsa_s_kartofelem">
+	На 1 банку (500 г.) фарш. перца:\n
+	5-6 шт. вареного картофеля\n
+	1 яйцо\n
+	100 г. зеленого лука\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_krasnohack_kapusti">
+	чеснок - 1 зубчик\n
+	капуста краснокачанная - 1/2 качана\n
+	1 ч. ложка лимонного сока\n
+	соль - по вкусу\n
+	перец - по вкусу\n
+	йогурт греческий - 4 ст. л.\n
+</string>
+
+<string name="number_of_ingredients_for_salat_morsk_kapusta_izumitelniy">
+	Лук красный - 1 шт.\n
+	чернослив без косточек - 100г.\n
+	грецкие орехи - 100г.\n
+	майонез - 1,5 ст. ложки\n
+	капуста морская - 1 банка\n
+</string>
+
+<string name="number_of_ingredients_for_salad_with_fruits">
+	3 яблока\n
+	1 грушу\n
+	1 апельсин\n
+	1 мандарин\n
+	1/4 стакана соуса майонез\n
+	1/4 лимона\n
+	1 чайную ложку сахарной пудры\n
+</string>
+
+<string name="number_of_ingredients_for_vinegret_iz_pertsa">
+	500г фаршированного перца\n
+	5–6 шт. вареного картофеля\n
+	1 яйцо\n
+	100 г зеленого лука\n
+</string>
+
+<string name="number_of_ingredients_for_vinegret_s_myasom">
+	338 г тушеного мяса\n
+	5–6 шт. вареного картофеля\n
+	3 соленых огурца\n
+	1 вареная свекла\n
+	100 г зеленого лука\n
+	1–2 яйца\n
+	1/2 стакана соуса майонез\n
+	1 чайную ложку горчицы\n
+	1 ст. ложку уксуса\n
+</string>
+
+<string name="number_of_ingredients_for_buter_s_pomi_i_ogur">
+	Помидор\n
+	Огурец\n
+	Майонез\n
+	Редис\n
+</string>
+
+<string name="number_of_ingredients_for_buter_s_ikroi">
+	Хлеб\n
+	Яйцо\n
+	Икра\n
+	Растительное масло\n
+</string>
+
+<string name="number_of_ingredients_for_buter_s_sirom">
+	Сыр\n
+	Томатная паста\n
+	Масло растительное\n
+</string>
+
+<string name="number_of_ingredients_for_buter_s_kilkoy">
+	Хлеб\n
+	Помидор\n
+	Яйцо\n
+	Анчоус\n
+	Майонез\n
+</string>
+
+<string name="number_of_ingredients_for_buter_s_sardinami">
+	Хлеб\n
+	Сардина\n
+	Майонез\n
+	Томатная паста\n
+	Лимон\n
+</string>
+
+<string name="number_of_ingredients_for_buter_s_semgoy">
+	Хлеб\n
+	Сёмга\n
+	Масло\n
+	Чёрная икра\n
+	Петрушка\n
+	Огурец\n
+</string>
+
+<string name="number_of_ingredients_for_seld_s_garnirom">
+	Сельдь\n
+	Чай\n
+	Огурцы\n
+	Помидоры\n
+	Корнишоны\n
+	Грибы\n
+	Лук\n
+	Варёные яйца\n
+</string>
+
+<string name="number_of_ingredients_for_seld_rublenaya">
+	1 сельдь\n
+	2 ст. ложки сливочного несоленого масла\n
+	1 яблоко (крупное)\n
+</string>
+
+<string name="number_of_ingredients_for_seld_s_kartofelem_i_maslom">
+	Одна крупная сельдь\n
+	500 г. картофеля\n
+	50 г. сливочного масла\n
+	2 свежих огурца\n
+</string>
+
+<string name="number_of_ingredients_for_ustritsi">
+	Устрицы\n
+</string>
+
+<string name="number_of_ingredients_for_bujenina">
+	Свинина (окорок или шея) - 700-100 г.\n
+	Чеснок\n
+	Лавровый лист\n
+	Соль\n
+	Перец\n
+</string>
+
+<string name="number_of_ingredients_for_vetchina_v_sire">
+	Ветчина - 300 г\n
+	сыр - 400-400 г.\n
+	чеснок - 1 зубчик\n
+	зелень петрушки или укропа\n
+	желатин - 1 столовая ложка\n
+</string>
+
+<string name="number_of_ingredients_for_goryachaya_zakuska_v_bagete">
+	Багет (батон) - 1 шт.\n
+	ветчина или сосиски - 300-400 г.\n
+	сыр - 200 г.\n
+	болгарский перец - 1 шт.\n
+	зелень петрушки или укропа\n
+	чеснок - 1-2 зубчика (по желанию)\n
+	яйцо - 1 шт.\n
+	майонез или сметана\n
+	соль\n
+</string>
+
+<string name="number_of_ingredients_for_goryachaya_zakuska_v_lavashe">
+	Лаваш - 0.5 - 1 шт.\n
+	кружок ветчины\n
+	кружок помидора\n
+	яйцо - 1 шт.\n
+	сыр твердый - 20 г.\n
+	зелень\n
+	соль\n
+	перец\n
+</string>
+
+<string name="number_of_ingredients_for_julen_iz_kuritsh">
+	Куриные окорочка - 2-3 шт\n
+	грибы лесные - 200-300 г.\n
+	лук репчатый - 4-6 шт.\n
+	сметана - 100-150г.\n
+	сыр твердый - 100-150г.\n
+	мука - 1 ст. ложка\n
+	сливочное масло - 80г.\n
+	растительное масло\n
+	соль\n
+	свежемолотый перец\n
+</string>
+
+<string name="number_of_ingredients_for_zakuska_iz_lavasha_s_myasnim_farshem">
+	лаваш - 3 листа\n
+	мясной фарш - 300-400 г.\n
+	лук репчатый - 1 шт.\n
+	морковь - 1 шт.\n
+	помидоры - 1-2 шт.\n
+	листья салата\n
+	сыр - 50 г.\n
+	майонез\n
+	чеснок - 1-2 дольки\n
+	зелень петрушки или укропа\n
+</string>
+
+<string name="number_of_ingredients_for_zakuska_s_pechenochnim_pashtetom">
+	Яйца перепелиные - 6 шт.\n
+	батон - 6 кусков\n
+	зелень\n
+	куриная печень - 300г.\n
+	лук репчатый - 1 шт.\n
+	сливочное масло - 60 г.\n
+	соль\n
+	свежемолотый перец\n
+</string>
+
+<string name="number_of_ingredients_for_krilishki_v_soevom_souse">
+	крылышки куриные - 1 кг.\n
+	соевый соус - 100-150 мл.\n
+	мед - 2-3 ч.л.\n
+	чеснок - 2 дольки\n
+</string>
+
+<string name="number_of_ingredients_for_hocol_b_macle">
+	1 стакан фасоли\n
+	1 головку лука\n
+	2 ст. ложки растительного масла\n
+</string>
+
+<string name="number_of_ingredients_for_pashtet_ez_hocole">
+	1 стакан фасоли \n
+	2–3 ст. ложки растительного масла\n
+	1 головку лука\n
+</string>
+
+<string name="number_of_ingredients_for_ekra_grebnai">
+	250 г соленых грибов\n
+	1 головку лука\n
+	1–2 ст. ложки растительного масла\n
+</string>
+
+<string name="number_of_ingredients_for_ekra_ez_baklazana">
+	300 г баклажан\n
+	1–2 головки лука\n
+	2 ст. ложки растительного масла\n
+	1 помидор\n
+</string>
+
+<string name="number_of_ingredients_for_ekra_ez_cBekla">
+	1/2 кг сырой свеклы\n
+	2–3 ст. ложки сахара\n
+	2 ст. ложки сливочного масла\n
+	1/2 лимона\n
+</string>
+
+<string name="number_of_ingredients_for_zfleBnoe_cydak">
+	1 судака\n
+	10–12 г желатины\n
+	1 шт. кореньев и головку лука\n
+</string>
+
+<string name="number_of_ingredients_for_zalivnoy_sudak">
+	1 судак\n
+	10–12 г желатины\n
+	1 головка лука\n
+</string>
+
+<string name="number_of_ingredients_for_zalebnay_ocetrena">
+	1 кг осетрины\n
+	25–30 г желатины\n
+	1 головка лука\n
+</string>
+
+<string name="number_of_ingredients_for_zalebnoy_azyk">
+	1 язык\n
+	20–25 г желатины\n
+	1 головка лука\n
+</string>
+
+<string name="number_of_ingredients_for_ctyden_ez_cterlyde">
+	1 кг стерляди\n
+	15–20 г желатины\n
+	 25 г икры\n
+	1 головка лука\n
+</string>
+
+<string name="number_of_ingredients_for_klubnichniy_koktail">
+	Молоко\n
+	Клубника\n
+	Мороженое\n
+</string>
+
+<string name="number_of_ingredients_for_tomatniy_sup_pure">
+	1 кг помидор (4-5 шт. очищенных от кожицы)\n
+	3 болгарских перца\n
+	средняя луковица\n
+	1 долька чеснока\n
+	соль, перец по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_domashnee_morojenoe_iz_kivi">
+	420 мл. воды\n
+	240 мл. сахара\n
+	4 киви\n
+	120 мл. свежего сока лайма (не обязательно)\n
+</string>
+
+<string name="number_of_ingredients_for_chayniye_yaytsa">
+	Яйца куриные - 2 шт.\n
+	Чайный пакетик - 1 шт.\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_svekli_sira_gr_orehov">
+	Свекла одна большая (несколько маленьких)\n
+	Чеснок - 1 головка\n
+	Сыр - 70 гр.\n
+	Майонез - по вкусу\n
+	Орехи (по желанию). Лучше грецкие.\n
+	Соль по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_tvorojno_mork_zapekanka">
+	Творог - 400-500г.\n
+	Морковь - 2-3 шт.\n
+	Яйца - 2 шт.\n
+	По желанию : сахар, соль, орехи\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_pomidorov_i_yaits">
+	помидоры - 4 шт.\n
+	сваренные вкрутую яйца - 4 шт.\n
+	сметана - 3/4 стакана\n
+	соль и чеснок по вкусу\n
+	мелко нарезанная зелень по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_pomidor_s_brinzoy">
+	помидоры - 5-6 шт.\n
+	сладкий перец - 1 стручок (или желтые помидоры)\n
+	брынза - 100 г.\n
+	петрушка или другая зелень по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_italyanskiy_salat_s_makaronami">
+	макароны - 1/3 пачки\n
+	2-3 помидора\n
+	ветчина (или колбаса и т.д.)\n
+	По желанию:\n
+	сыр (типа Эдам) - 100 г.\n
+	зелень - по вкусу\n
+	Для соуса (можно заменить майонезом): \n
+	4 ст.л. растительного масла без запаха,\n
+	1 ст.л. лимонного сока,\n
+	1 ч.л. сахара,\n
+	соль, перец, петрушка, горчица по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kartofelnoe_pyre">
+	картофель - 1 кг.\n
+	молоко - 200 мл.\n
+	соленое сливочное масло - 20 гр.\n
+</string>
+
+<string name="number_of_ingredients_for_garnir_iz_kartofelya_k_blydam_iz_farsha">
+	картофель\n
+	морковь\n
+	лук\n
+	пассерованное томат-пюре\n
+	лавр, перец, соль (по желанию)\n
+</string>
+
+<string name="number_of_ingredients_for_garnir_pyre_iz_goroshka_k_kotletam">
+	горошек - 450 гр.\n
+	сметана - 150 гр.\n
+	петрушка, укроп - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_citrusoviy_desert_s_saharom_i_vinom">
+	Апельсины (мандарины) - 100 г.\n
+	сахар - 40 г.\n
+	вино - 10 г.\n
+</string>
+
+<string name="number_of_ingredients_for_zapechennaya_kartoshka_v_kojure">
+	картофель - 1 кг.\n
+</string>
+
+<string name="number_of_ingredients_for_zapechenniye_kartofelnie_dolki">
+	Картофель - 1 кг.\n
+</string>
+
+<string name="number_of_ingredients_for_vegetariansky_pinkberry">
+	йогурт - 1 упаковка\n
+	сахар - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_arahiso_banan_morojenoe">
+	Бананы - по вкусу\n
+	Арахисовое масло - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_klubnichnaya_pomadka">
+	Шоколад - 1 упаковка\n
+	Клубничная глазуь (клубника) - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_shokoladnie_tryfeli">
+	Шоколад - по вкусу\n
+	Сыр плавленный - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_syrnye_chipsi">
+	Сыр твердый - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_ovsyanoe_pechenie">
+	Хлопья овсяные - по вкусу\n
+	Бананы - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_biskviti">
+	Мука самовосходящая (с добавлением разрыхлителя) - по вкусу\n
+	Молоко - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_makaruni">
+	Стружка кокосовая - по вкусу\n
+	Молоко сгущеное - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_tyshemiy_kartofel_s_ovowami">
+	Кртофель - 400 г.\n
+	Морковь - 40 г.\n
+	Петрушка (корень) - 20 гр.\n
+	Лук репчатый - 40 г.\n
+	соус сметанный, молочный - 150 г.\n
+	лист лавровый, перец горошком - по вкусу\n
+	зелень, соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_gribi_i_kartofel_zapechenniy_v_duhovke">
+	картофель - 500 г.\n
+	шампиньены (небольшие) - 150 г.\n
+	сливочное масло - 50 г.\n
+	укроп, чеснок, соль, перец - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kartofel_so_svininoy">
+	картофель - 8 шт.\n
+	мясо - 200 г.\n
+	репчатый лук - 1 шт.\n
+	мука - 1 ч.л.\n
+	тертый сыр - 1 ст.л.\n
+	масло растительное - 2 ст.л.\n
+	панировочные сухари - 1 ст.л.\n
+	бульон - 2 ст.л.\n
+	соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_suhariki_iz_batona">
+	Батон\n
+	Подсолнченое масло - по вкусу\n
+	Чеснок - по вкусу\n
+	Порошковый суп - по вкусу.\n
+</string>
+
+<string name="number_of_ingredients_for_suhariki_iz_hleba">
+	Хлеб\n
+	Подсолнечное масло - по вкусу\n
+	Чеснок - по вкусу\n
+	Порошковый суп - по вкусу.\n
+</string>
+
+<string name="number_of_ingredients_for_kuritsa_s_yablokami">
+	Курица - 1/2\n
+	Яблоко - 6 шт.\n
+	Сахар - 2 ст.л.\n
+	1 пакет для запекания\n
+	Приправа для курицы - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_kuritsi_s_chesnokon">
+	Курица - 300г.\n
+	Помидоры - 4шт.\n
+	Сыр твердый - 80г.\n
+	Сайонез - 3 ст.л.\n
+	Чеснок - 2 зубчика\n
+	Растительное масло - 1 ст.л.\n
+	Соль - 1/4 ч.л.\n
+	Перец черный молотый - 1 щепотка.\n
+</string>
+
+<string name="number_of_ingredients_for_krimskie_chebureki_s_myaom_i_lukom">
+	Фарш свиной - 500г\n
+	Мука - 4 стакана\n
+	Вода - 1.5 стакана\n
+	Яйца куриные - 1шт.\n
+	Лук репчатый - 2 головки\n
+	масло растительное - 2 ст.л.\n
+	водка - 1 ст.л.\n
+	сахар - 1/2 ч.л.\n
+	зелень\n
+	соль\n
+</string>
+
+<string name="number_of_ingredients_for_burger_s_kuritsoy">
+	Курица - 130г.\n
+	Огурец - 40г\n
+	Помироды - 40г.\n
+	Сыр - 40г.\n
+	Майонез - 25г.\n
+	Яйцо - 1шт.\n
+</string>
+
+<string name="number_of_ingredients_for_kartofelynie_palochki_s_sirom">
+	Картофель - 5 шт.\n
+	Яйцо - 2шт.\n
+	Панировочный сухари - 100г.\n
+	Сыр твердый - 100г.\n
+	Мука - 2-3 ст.л.\n
+	Масло растительное - по вкусу\n
+	Перец, соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_blini_iz_butilki">
+	Бутылка любая - 1 шт.\n
+	Яйца - 2 шт.\n
+	Мука - 10 ст.л. с горсткой\n
+	Сахар - 3 ст.л.\n
+	Масло растительное - 3 ст.л.\n
+	Молоко - 600 гр.\n
+	Соль - пол чайной ложки.\n
+</string>
+
+<string name="number_of_ingredients_for_hvorost">
+	Яйца куриные - 2шт.\n
+	Сметана - 2 ст.л.\n
+	Водка - 50г.\n
+	Мука - по ситуации\n
+	Сахарная пудра - по вкусу\n
+	Соль - по вкусу\n
+	Ваналин - по вкусу\n
+	Масло растительное - 0.5 литра.\n
+</string>
+
+<string name="number_of_ingredients_for_blinchiki_zavarnie">
+	Кефир - 2 ст.л.\n
+	Мука - 2 ст.л.\n
+	Яйца - 2 ст.л.\n
+	Сода - 1/2 ч.л.\n
+	Масло растительное - 2-3 ст.л.\n
+	Соль, сахар - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kartoshka_s_sirom">
+	Картофель крупный - 3-4шт.\n
+	Батон - 1шт.\n
+	Сыр - 100г.\n
+	Яйцо - 1шт.\n
+	Масло растительное - 1-2 ст.л.\n
+</string>
+
+<string name="number_of_ingredients_for_biskvit_klassicheskiy">
+	Сахар - 1 стакан\n
+	Мука - 1 стакан\n
+	Яйца - 4шт.\n
+	Ванилин - по вкусу (на кончике ножа)\n
+</string>
+
+<string name="number_of_ingredients_for_medovi_biskvit">
+	Яйца- 6шт.\n
+	Сахар - 160гр.\n
+	Мед - 2 ст.л.\n
+	Мука - 190гр\n
+</string>
+
+
+<string name="number_of_ingredients_for_kurinaya_grudka_pod_smetanno_chesnochnim_sousom">
+	Куриные грудки - 2шт.\n
+	Сметана - 300г.\n
+	Чеснок - 3-4 зубчика\n
+	Сыр - 150гр.\n
+	Соль\n
+	Перец\n
+</string>
+
+<string name="number_of_ingredients_for_yaytsa_po_shatlandski">
+	Яйцо куриное - 7шт.\n
+	Свинина - 300г.\n
+	Говядина - 300г.\n
+	Соль - 1.ч.л.\n
+	Базилик сушенный - 1ч.л.\n
+	Мускатный орех тертый - 1/2 ч.л.\n
+	Масло для фритюра (растительное) - 800мл.\n
+</string>
+
+<string name="number_of_ingredients_for_yaytso_v_korzinke_iz_bekona">
+	Яйцо - 4шт.\n
+	Бекон (или любая ветчина) - 8 кусков\n
+	Сыр сливочный - 4 ст.л.\n
+	Грибы - 1/2 стакана\n
+	Масло сливочное - 1 ч.л.\n
+	Салями - 8 кусков\n
+	Соль и перец - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_omlet_s_gribami_i_zeleny">
+	Яйца - 4шт.\n
+	Белки яичные - 6шт.\n
+	Грибы (желательно шампиньоны) - 500г.\n
+	Зелень (жел. петрушка) - 3ч.л.\n
+</string>
+
+<string name="number_of_ingredients_for_kartofel_zapechenniy">
+	Картофель - сколько влезет :)\n
+	Яйца - 2шт.\n
+	Молоко - 200мл.\n
+	Сыр - по вкусу (больше - лучше)\n
+</string>
+
+<string name="number_of_ingredients_for_kartofel_s_vetchinoy">
+	Картофель крупный - 6шт.\n
+	Ветчина - 50гр.\n
+	Сметана - 1,5 ст.\n
+	Яйцо - 3шт.\n
+	Сыр тертый - 4 ст.л.\n
+	Масло - 1.ч.л.\n
+	Мука - 1/4 ст.л.\n
+	Соль - 1.ч.л.\n
+</string>
+
+<string name="number_of_ingredients_for_hachapuri">
+	Для теста:\n
+	Кефир - 0.5л.\n
+	Яйцо - 1шт.\n
+	Соль - 1ч.л.\n
+	Сахар - 1 ч.л.\n
+	Разрыхлитель - 1 ч.л.\n
+	Растительное масло - 2 ст.л.\n
+	Мука - 4.5 ст.л.\n
+	  \n
+	Для начинки:\n
+	Сыр - 500г.\n
+	Яйца - 2.\n
+</string>
+
+<string name="number_of_ingredients_for_tartaletki_iz_kartofelya_s_kur_file_pod_chesnochno_sirnim_sousom">
+	Филе курицы - 700г.\n
+	Майонез - 200г.\n
+	Чеснок - 3 зубчика\n
+	Картофель - 6-8 шт. (большие)\n
+	Сыр - 100-200г.\n
+	Зеленый лук - по вкусу\n
+	Соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kartofelnie_shariki">
+	Картофель - 800г.\n
+	Масло сливочное - 50г.\n
+	Яйца - 2шт.\n
+	Преничная мука или панировачные сухари (мелкие) - 40г.\n
+	Перец, соль - по вкусу\n
+	Масло растительное - по вкусу.\n
+</string>
+
+<string name="number_of_ingredients_for_tort_v_krujke">
+	Мука - 4 ст.л.\n
+	Сахар - 3 ст.л.\n
+	Яйца - 1 шт.\n
+	Масло сливочное - 3 ст.л.\n
+	Молоко - 3 ст.л.\n
+	Масло растительное - 3 ст.л.\n
+</string>
+
+<string name="number_of_ingredients_for_kurinie_paluchki_s_sirom">
+	Куриное филе - 250г.\n
+	Яйца - 2шт.\n
+	Сыр твердый - 150г.\n
+	Мука - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kuriniye_otbivmiye_v_sirnom_klyare">
+	Куриное филе - 700г.\n
+	Яйца - 3 шт.\n
+	Сыр  - 150г.\n
+	Мука, соль, перец - по вкусу\n
+	Сок половины лимона (необязательно, но желательно)\n
+</string>
+
+<string name="number_of_ingredients_for_kolbasa_jarenaya_s_kapustoy">
+	Колбаса\n
+	Капуста\n
+</string>
+
+<string name="number_of_ingredients_for_soup_bones">
+	500 г мясных костей\n
+	1 морковь\n
+	Головка лука\n
+</string>
+
+<string name="number_of_ingredients_for_soup_mash">
+	50 г. сухих грибов\n
+</string>
+
+<string name="number_of_ingredients_for_soup_cubbage">
+	2 головки цветной капусты среднего размера\n
+	1 пучок моркови\n
+	1 стебель сельдерея\n
+</string>
+
+<string name="number_of_ingredients_for_bozbash">
+	500 г баранины\n
+	1 стакан лущеного гороха\n
+	500 г картофеля\n
+	2 яблока\n
+	2 головки лука\n
+</string>
+
+<string name="number_of_ingredients_for_Shurpa">
+	500 г. говядины\n
+	750 г. картофеля\n
+	2 головки лука\n
+	2 шт. моркови\n
+</string>
+
+<string name="number_of_ingredients_for_soup_iz_fasoli_s_lapshoi">
+	1/2 стакана фасоли \n
+	1 головку лука\n
+	100 г лапши\n
+</string>
+
+<string name="number_of_ingredients_for_soup_iz_fasoli_s_krtofilem">
+	1 стакан фасоли\n
+	5–6 шт. картофеля\n
+	1 шт. моркови\n
+	1 головка лука\n
+</string>
+
+<string name="number_of_ingredients_for_soup_s_bruselsoy_kapustoy">
+	600 г брюссельской капусты\n
+	3–4 шт. картофеля\n
+</string>
+
+<string name="number_of_ingredients_for_soup_kartofelni_s_gribami">
+	500 г грибов\n
+	800 г картофеля\n
+	200 г. лука\n
+</string>
+
+<string name="number_of_ingredients_for_baton_s_sirom_i_chesnokom">
+	Батон (багет)\n
+	Сыр твердый - 100г.\n
+	Масло сливочное - 100г.\n
+	Чеснок - 3 зубчика\n
+	Петрушка (или любая зелень) - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_zapechennaya_kartoshka_s_sirom">
+	Картофель - 1 кг. (молодой)\n
+	Сыр твердый - 200г.\n
+	Масло сливочное - 80г.\n
+	Зелень - пучок\n
+	Соль - 1/2 ч.л.\n
+</string>
+
+<string name="number_of_ingredients_for_sirnie_lepeshki">
+	Мука - 2 стакана\n
+	Кефри - 1 стакан\n
+	Соль - 1/2 ч.л.\n
+	Сахар - 1/2 с.л.\n
+	Сода - 1/2 ч.л.\n
+	Сыр тертый - 1 стакан\n
+	Ветчина - 250 г.\n
+</string>
+
+<string name="number_of_ingredients_for_kanape_s_krasnoy_ikroy">
+	Творожный сыр (мягкий творог) - 150г.\n
+	Икра красная - 100г.\n
+	Батон\n
+	Огурцы свежие - 2 шт.\n
+	Зелень (укроп) - пучок\n
+</string>
+
+<string name="number_of_ingredients_for_pizza_dlya_lenivih">
+	Сыр - 300г.\n
+	Слоеное тесто - 500г.\n
+	Грибы - по вкусу\n
+	Томатная паста (кетчуп) - по вкусу\n
+	Ветчина - по вкусу\n
+	Зелень - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_sirnaya_solomka">
+	Сыр твердый - 150г.\n
+	Мука пшеничная - 1 стакан\n
+	Масло сливочное - 80г.\n
+	молоко - 4 ст.л.\n
+	Соль - по вкусу\n
+	Лимонная цедра, тмин, кунжут - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_jareny_v_duhovke_kartofel_s_sirom">
+	Картофель - 6 шт.\n
+	Масло растительное (лучше оливковое) - 4 ст.л.\n
+	Чесночный порошок - 1/2 ч.л.\n
+	Соль - 3/4 ч.л.\n
+	Паприка - 1,5 ч.л.\n
+	Молотый черный перец - 1/4 ч.л.\n
+	Сыр твердый - 80г.\n
+</string>
+
+<string name="number_of_ingredients_for_kartofel_dofin_pod_sirom">
+	Картофель - 1 кг.\n
+	Яйцо - 1 шт.\n
+	Молоко - 1 стакан\n
+	Сыр твердый - 200 г.\n
+	Чеснок - 1 зубчик\n
+	Масло сливочное - 50 г.\n
+	Перец черный - по вкусу\n
+	Приправы - 2 ч.л.\n
+</string>
+
+<string name="number_of_ingredients_for_francyzskie_tosti">
+	Яйца - 5 шт.\n
+	Молоко + сливки - 3 ст.л.\n
+	Соль - 1 ч.л.\n
+	Перец молотый - 2 ч.л.\n
+	Зеленый лук - 1,5 ст.л.\n
+	Кинза - 1,5 ст.л.\n
+	Растительное и сливочное масло - по вкусу\n
+	Хлеб или батон - 8 кусков.\n
+</string>
+
+<string name="number_of_ingredients_for_kart_pyre_s_pomidorami">
+	Картофель - 1 кг.\n
+	Молоко - 400 мл.\n
+	Сыр - 300 г.\n
+	Лук - 200г.\n
+	Масло сливочное (для жарки) - 10 г.\n
+	Чеснок - 2-3 зубчика\n
+	Помидор - 1 шт.\n
+	Соль, перец, зелень - по вкусу.\n
+</string>
+
+<string name="number_of_ingredients_for_krabovie_trubochki">
+	Яйцо - 1 шт.\n
+	Сыр твердый - 50 г.\n
+	Кальмары консерварованные - 120 г.\n
+	Крабовые палочки - 12 шт.\n
+	Майонез - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_pizza_so_smetanoy_vetchinoy_lukom">
+	Сыр - 100 г.\n
+	Ветчина (или бекон) - 100 г.\n
+	Тесто для писсы (либо слоеное) - 120 г.\n
+	Сметана - 2 ст.л.\n
+	Зеленый лук - пучок\n
+</string>
+
+<string name="number_of_ingredients_for_sirniy_sup_s_shampinonami">
+	Вода - 2 л.\n
+	2 плавленных сырка (желательно с грибным вкусом)\n
+	Картовель - 3-4 шт. (небольшие)\n
+	Морковь - 1 шт.\n
+	Лук репчатый - 1 шт.\n
+	Шампиньоны - 250 г.\n
+	Соль - по вкусу\n
+	Специи - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_sirnie_blini">
+	Яйца - 3 шт.\n
+	Сыр - 300г.\n
+	Молоко - 3 ст.\n
+	Мука - 2,5 стакана\n
+	Соль - щепотка\n
+	Подсолнечное масло - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_duhovie_kotletki">
+	Фарш (свинина и говядина)\n
+	Небольшой кусок хлеба (батона)\n
+	Молоко\n
+	Луковица\n
+</string>
+
+<string name="number_of_ingredients_for_pomidori_s_sirom_i_chesnokom">
+	Сыр твердый - 200 г.\n
+	Помидоры - 4 шт.\n
+	Майонез - по вкусу\n
+	Чиснок - по вкусу\n
+	Зелень - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kuritsa_zapechennya_pod_sirom">
+	Куриные бедрышки - 2 шт.\n
+	Сыр твердый - по вкусу\n
+	Зелен, чеснок - по вкусу\n
+	Майонез - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kabachki_zapechenniye_s_pomidorami_i_sirom">
+	Кабачки (небольшие) - 1-2 шт.\n
+	Помидоры - 2-3 шт.\n
+	Сыр твердый - 50 г.\n
+	Соль, перец - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_sloenie_palochki_s_vetchinoy">
+	Тесто слоеное дрожжевое - 250 г.\n
+	Ветчина сыровяленая - 35 г.\n
+	Яйцо куриное - 1 шт.\n
+</string>
+
+<string name="number_of_ingredients_for_hleb_s_sirom_na_grile">
+	Хлеб (батон) - 5-6 небольших булок\n
+	Мягкий сливочный сыр - 200 г.\n
+</string>
+
+<string name="number_of_ingredients_for_goryachiy_buterbrod">
+	Сыр - 100 г.\n
+	Маслины - 2 шт.\n
+	Помидоры (мелкие) - 4 шт.\n
+	Сосиски - 2 шт.\n
+	Майонез - 2 ст.л.\n
+	Хлеб (батон) - 2 ломтика\n
+</string>
+
+<string name="number_of_ingredients_for_sandwitch_s_semgoy_i_slivochnim_sirom">
+	Семга - 100 г.\n
+	Хлеб для сэндвичей\n
+	Сыр сливочный - 1 упаковка\n
+	Молодой зеленый лук - пучок\n
+	Сыр твердый - 50 г.\n
+	Сок 1/2 лимона\n
+	Соль - щепотка\n
+	Перец черный свежемолотый - щепотка\n
+</string>
+
+<string name="number_of_ingredients_for_yaponsky_omlet_s_kuritsey">
+	Лук репчатый - 1 головка\n
+	Филе куриное - 300 г.\n
+	Рим - 1/2 стакана\n
+	Яйцо куриное - 3 шт.\n
+	Соус соевый - 6 ст.л.\n
+	Сахар - 2 ст.л.\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_morkovi_s_sirom">
+	Морковь - 500 г.\n
+	Сыр нежирный - 300 гр.\n
+	Чеснок - по вкусу\n
+	Нежирная сметана или йогурт - 50 гр.\n
+</string>
+
+<string name="number_of_ingredients_for_italian_pizza_s_salyami">
+	Тесто для пиццы - 500 г.\n
+	Сыр - 200 г.\n
+	Салями (или другая колбаса) - 150 г.\n
+	Перец болгарский - 1 шт.\n
+	Соус томатный (кетчуп) - 3 ст.л.\n
+	Маслины - 10 шт.\n
+</string>
+
+<string name="number_of_ingredients_for_govyadina_s_sirom_i_smetanoy">
+	Говяжья вырезка - 800 г.\n
+	Сыр - 100 г.\n
+	Сметана - 100 г.\n
+	Специи - по вкусу\n
+	Соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_classic_french_omlet">
+	Масло сливочное - 50 г.\n
+	Яйца куриные - 3 шт.\n
+	Специи (соль, белый перец) - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_vareni_omlet">
+	Яйца куриные - 3 шт.\n
+	Молоко - 2/3 стакана\n
+	Соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_sitniy_zavtrak_iz_yaits">
+	Яйцо (вареное) - 6 шт.\n
+	Сметана - 6 ст.л.\n
+	Сыр твердый - 100 г.\n
+	Горчица - 3 ст.л.\n
+</string>
+
+<string name="number_of_ingredients_for_cholate_omlet">
+	Шоколад - 400 г.\n
+	Масло сливочное - 100 г.\n
+	Яйцо - 5 шт.\n
+</string>
+
+<string name="number_of_ingredients_for_omlet_iz_detskogo_sada">
+	Яйцо - 5 шт.\n
+	Молоко - 250 мл.\n
+	Соль - 0.5 ст.л.\n
+	Масло сливочное - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_soup_pure_is_kuritsi">
+	1 курица\n
+	4 ст. ложки масла\n
+	2 ст. ложки муки\n
+	2 яйца\n
+	1 стакан сливок или молока\n
+</string>
+
+<string name="number_of_ingredients_for_soup_pure_iz_krabov">
+	1 банка консервированных крабов\n
+	4 ст. ложки масла\n
+	2 ст. ложки муки\n
+	4 стакана молока\n
+</string>
+
+<string name="number_of_ingredients_for_soup_pure_iz_kukuruzi">
+	1 банка консервированной кукурузы \n
+	2 ст. ложки муки\n
+	4 ст. ложки масла\n
+	3 стакана молока\n
+</string>
+
+
+<string name="number_of_ingredients_for_sup_pure_iz_fasoli_i_goroha">
+	400 г фасоли или гороха\n
+	1 шт. моркови\n
+	1 луковица\n
+	4 ст. ложки масла\n
+	2 стакана молока\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_risa">
+	1 стакан риса\n
+	3–4 стакана молока\n
+	3 ст. ложки масла\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_zelenogo_goroshka">
+	800 г консервированного горошка\n
+	3 ст. ложки масла\n
+	2 ст. ложки муки\n
+	4 стакана молока\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_shampinionov">
+	600 г свежих шампиньонов\n
+	2 ст. ложки муки\n
+	4 стакана молока\n
+	4 ст. ложки масла\n
+	1 шт. моркови\n
+	1 луковица\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_salata">
+	800 г зеленого салата\n
+	3 ст. ложки сливочного масла\n
+	2 ст. ложки муки\n
+	5–6 стаканов молока\n
+	1 стакан сливок\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_pomodorov">
+	750 г помидоров\n
+	4 ст. ложки масла\n
+	2 ст. ложки муки\n
+	4 стакана молока\n
+	1 чайную ложку сахара\n
+	2 ст. ложки риса\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_ovoshchei">
+	150 г моркови\n
+	 150 г репы\n
+	 200 г. картофеля\n
+	100 г лука-порея\n
+	3/4 стакана риса\n
+	100 г горошка\n
+	3 ст. ложки масла\n
+	2 стакана молока\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_sparji">
+	800 г спаржи\n
+	4 ст. ложки масла\n
+	2 ст. ложки муки\n
+	4 стакана молока\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_tsvetnoi_kapusti">
+	Капусты цветной — 100 гр\n
+	картофеля — 100 гр\n
+	риса — 20 гр.\n
+	молока — 100 гр.\n
+	масла сливочного — 10 гр.\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_struchkov">
+	600–700 стручков фасоли\n
+	3 ст. ложки масла\n
+	500 г картофеля\n
+	2 стакана молока\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_morkovi">
+	800 г моркови\n
+	3/4 стакана риса\n
+	3 ст. ложки масла\n
+	2 стакана молока\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_tikvi">
+	800 г тыквы\n
+	150 г гренков \n
+	300 г картофеля\n
+	4–5 стаканов молока\n
+	3 ст. ложки масла\n
+	2 чайных ложки сахара\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_kartofelya">
+	1 кг картофеля\n
+	2–3 стакана молока\n
+	3 ст. ложки сливочного масла\n
+	3 стебля лука-порея\n
+</string>
+
+<string name="number_of_ingredients_for_kurini_bulion">
+	1 курица\n
+	1 шт. моркови\n
+	петрушка\n
+	1 луковица\n
+</string>
+
+<string name="number_of_ingredients_for_sup_molohci_s_hlopiami">
+	1 л молока\n
+	1 стакан овсяных хлопьев\n
+	1 чайную ложку сахара\n
+	1 ст. ложку масла\n
+</string>
+
+<string name="number_of_ingredients_for_sup_molochi_s_kortofelimi_kletskami">
+	1 л молока\n
+	3–4 шт. картофеля\n
+	2 яйца\n
+	3–4 ст. ложки муки\n
+	1 ст. ложку масла\n
+</string>
+
+<string name="number_of_ingredients_for_sup_molochni_s_perlovoy_krupoy">
+	1 л молока\n
+	4–5 ст. ложек перловой крупы\n
+	1 ст. ложку масла\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_molochnaya_lapsha">
+	1 л молока\n
+	50 г лапши\n
+	1 ст. ложку масла\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_sup_molochni_risov">
+	1 л молока\n
+	4 ст. ложки риса\n
+	1 ст. ложку масла\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_smorodini_c_mankoi">
+	300 г смородины\n
+	2 ст. ложки манной крупы\n
+	1 стакан молока\n
+	1/2 стакана сахара\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_yablok">
+	500 г яблок\n
+	200 г. булки\n
+	1/2 стакана сахара\n
+	2 ст. ложки риса\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_sushenih_frucktov">
+	200 г. сухих фруктов\n
+	50 г картофельной муки\n
+</string>
+
+<string name="number_of_ingredients_for_sup_pure_iz_abrikosov">
+	400 г абрикосов\n
+	1/2 стакана сахара\n
+	1 ст. ложку картофельной муки\n
+	1/2 стакана риса\n
+	4 ст. ложки сметаны\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_abrikosov_i_yablock">
+	500 г свежих абрикосов\n
+	500 г яблок\n
+	3 ст. ложки сахара\n
+	2 чайных ложки картофельной муки\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_klukvi_i_yablok">
+	 300 г клюквы\n
+	500 г яблок\n
+	 1 стакан сахара\n
+	1 ст. ложку картофельной муки\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_vishen_s_risom">
+	300 г вишен\n
+	4–5 ст. ложек риса\n
+	1/2 стакана сахара\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_vishen_s_varenikami">
+	600 г вишен\n
+	1 стакан муки пшеничной\n
+	1/2 стакана сахара\n
+	2 яйца\n
+</string>
+
+<string name="number_of_ingredients_for_sup_holodes">
+	1 л хлебного кваса\n
+	500 г молодой свеклы с ботвой\n
+	2 свежих огурца\n
+	75 г зеленого лука\n
+	2 яйца\n
+	2 ст. ложки сметаны\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_borshch_holodni">
+	500 г свеклы\n
+	200 г. картофеля\n
+	2 свежих огурца\n
+	75 г зеленого лука\n
+	2 яйца\n
+	2 ст. ложки сметаны\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_okroshka_ovoshnaya">
+	1 л. хлебного кваса\n
+	1–2 шт. картофеля\n
+	1 свеклу\n
+	1 морковь\n
+	1–2 свежих огурца\n
+	50–75 г. зеленого лука\n
+	2 яйца\n
+	2 ст. ложки сметаны\n
+	1 чайную ложку сахара\n
+</string>
+
+<string name="number_of_ingredients_for_grenki">
+	Яйца - 2\n
+	Молоко - 4 ст.л.\n
+	Батон - 5 ломников\n
+</string>
+
+<string name="number_of_ingredients_for_varenaya_katroshka">
+	Картофель - по вкусу\n
+	Соль\n
+</string>
+
+<string name="number_of_ingredients_for_varenye_pelmeni">
+	Пельмени - 1 кг\n
+	Лавровый лист - по вкусу\n
+	Соль - по вкусу\n
+	Суповая приправа - по вкусу\n
+	Перец горощком - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kotleti_iz_kurinoy_pecheni">
+	Куриная печень - 500 г.\n
+	Яйцо - 1\n
+	\n
+	Молоко - 2 ст.л.\n
+	Лук-шалот - 1\n
+	Морковь - 1\n
+	Сухари панировочные\n
+	Соль\n
+	Перец\n
+</string>
+
+<string name="number_of_ingredients_for_kotleti_iz_krabovih_palochek">
+	Крабовые палочки - 150-200г.\n
+	Лук-шалот - 1\n
+	Морковь - 1\n
+	Яйцо - 1\n
+	Молоко - 2-3 ст.л.\n
+	Панировочные сухари - по вкусу\n
+	Соль - по вкусу\n
+	Перец - по вкусу\n
+	Масло растительное - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_sup_iz_kurinogo_farsha">
+	Фарш куриный - 200г.\n
+	Морковь - 1 шт.\n
+	Лук - 1 штю\n
+	Картофель - 5-6 шт.\n
+	Вермишель - 50 г.\n
+	Капуста - 200 г.\n
+	Соль - по вкусу\n
+	Специи для супа (перец, лавр. лист и т.л.) - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_kak_varit_makaroni">
+	Макароны - по вкусу\n
+	Приправы - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_yaichnitsa_s_pomidorami_i_sosiskami">
+	Яйца - 6 шт.\n
+	Сосиски - 250 гр.\n
+	Помидоры - 2-3 шт.\n
+	Арабская приправа - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_tvorog_dieticheskiy">
+	Молоко - 1 л.\n
+	Молоко кислое - 1 л.\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_ogurtsov_i_yaits">
+	Огурцы средние - 2-3 шт.\n
+	Яйца вареные - 3-4 шт.\n
+	Маслины - 50 г.\n
+	Майонез - 100 г.\n
+</string>
+
+<string name="number_of_ingredients_for_makarono_po_flotski_s_kukuruzoy_i_kapustoy">
+	Макароны (желательно спагетти) -  250 г.\n
+	Тушенка - 200 г.\n
+	Кукуруза консерварованная - 100 г.\n
+	Китайская (пекинская) капуста - 4 листа\n
+</string>
+
+<string name="number_of_ingredients_for_salat_pikantniy">
+	Сыр тертый - 100-150 г.\n
+	Майонез - 200 г.\n
+	Вареные яйца - 4 шт.\n
+	Чеснок - 2-3 зубчика\n
+	Укроп - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_farshirovanye_yaytsa">
+	Вареные яйца - 10 шт\n
+	Маслины - по вкусу\n
+	Сыр тертый - 5-10 г.\n
+	Майонез - 1-3 ч.л.\n
+	Чеснок - 1 зубчи\n
+</string>
+
+<string name="number_of_ingredients_for_sosiski_s_sirom">
+	Сосиски или сардельки - 8 шт.\n
+	Сыр твердый - 120 г.\n
+	Бекон или капченая грудинка - 250-300 г.\n
+</string>
+
+<string name="number_of_ingredients_for_salat_kubik_rubik">
+	Красный сладкий перец - 200 г.\n
+	Помидоры - 200 г.\n
+	Сыр - 200 г.\n
+	Ветчина (колбаса и т.д.)  - 200 г.\n
+	Майонез - 200 г.\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_svekli_s_krab_palochkami">
+	Свакла (средняя) - 2 шт.\n
+	Крабовые палочки - 200 гю\n
+	Яйца вареные - 3 шт.\n
+	Сыр - 100 г.\n
+	Майонез - по вкусу\n
+	Соль - по вкусу\n
+	Чеснок - 1-2 зубчика\n
+</string>
+
+<string name="number_of_ingredients_for_tvorojno_kartofelnie_palchiki">
+	Творог - 300 г.\n
+	Картофель - 2 шт.\n
+	Яйцо - 1 шт.\n
+	Соль - по вкусу\n
+	Мука - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_uha_jeltaya_s_lososem">
+	Лосось - 500 г.\n
+	Картофель - 300 г.\n
+	Морковь - 200 г.\n
+	Соль, карри, лавровый лист, перец - по вкусу\n
+	Приправа для картошки - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_salat_iz_pomidorov_i_ogurtsov">
+	Огурцы - по вкусу\n
+	Помидоры - по вкусу\n
+	Сметана или растительное масло - по вкусу\n
+	Соль - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_svekolniy_salat_s_chesnokom_i_ogurtsom">
+	Вареная свекла - 500 г.\n
+	Огурец свежий - 1 шт.\n
+	Сметана - 1-2 ст.л.\n
+	Чеснок - 3 зубчика\n
+	Ядра грецких орехов (на любителя) - 6 шт.\n
+</string>
+
+<string name="number_of_ingredients_for_kartofelnie_galushki">
+	Картофель - 750 г.\n
+	Крахмал - 100 г.\n
+	Мука - 120 г.\n
+	Яйца - 2 шт.\n
+	Мускатный орех - по вкусу\n
+	Масло сливочное - 3 0г.\n
+	Соль - по вкусу\n
+	Зелень петрушки - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_goryachiy_buterbrod_s_yaytsom_i_zeleniu">
+	Сыр плавленый\n
+	Батон или хлеб\n
+	Яйцо\n
+	Чеснок\n
+	Зелень\n
+	Любые добавки ;)\n
+</string>
+
+<string name="number_of_ingredients_for_file_ciplenka_kak_jarit">
+	Филе цыпленка - 400 г.\n
+	Соль, приправы - по вкусу\n
+	Масло подсолнечное - по вкусу\n
+</string>
+
+<string name="number_of_ingredients_for_buterbrodi_zelenie_s_kartofelem">
+	Хлеб (батон)\n
+	Картофель\n
+	Лук\n
+	Зелень\n
+	Все, что угодно ;)\n
+</string>
+
+</resources>

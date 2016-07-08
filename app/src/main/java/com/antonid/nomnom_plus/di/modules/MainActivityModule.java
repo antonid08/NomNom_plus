@@ -1,5 +1,7 @@
 package com.antonid.nomnom_plus.di.modules;
 
+import com.antonid.nomnom_plus.presenter.EmptyFridgeFragmentPresenter;
+import com.antonid.nomnom_plus.presenter.MainActivityPresenter;
 import com.antonid.nomnom_plus.view.IMainActivityView;
 
 import dagger.Module;
@@ -23,16 +25,16 @@ public class MainActivityModule {
         return view;
     }
 
-    /*@Provides
-    public MainActivityPresenterImpl provideMainActivityPresenterImpl (IMainActivityView view){
-        return  new MainActivityPresenterImpl(view);
-    }*/
-
-/*    @Provides
-    public ListFragmentPresenterImpl provideListFragmentPresenterImpl() {
-        return new ListFragmentPresenterImpl();
+    @Provides
+    public MainActivityPresenter provideMainActivityPresenter (IMainActivityView view){
+        return  new MainActivityPresenter(view);
     }
 
+    @Provides
+    public EmptyFridgeFragmentPresenter provideEmptyFridgeFragmentPresenter() {
+        return new EmptyFridgeFragmentPresenter();
+    }
+/*
     @Provides
     public DetailFragmentPresenterImpl provideDetailFragmentPresenterImpl() {
         return new DetailFragmentPresenterImpl();
