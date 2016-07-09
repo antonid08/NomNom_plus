@@ -16,11 +16,12 @@
 
         <!-- colorAccent is used as the default value for colorControlActivated
              which is used to tint widgets -->
-        <item name="colorAccent">@color/colorMainAccent</item>
+        <item name="colorAccent">@color/colorMain</item>
 
         <item name="android:windowBackground">@color/colorMain</item>
 
         <item name="drawerArrowStyle">@style/ToolbarColorStyle</item>
+        <item name="android:colorForeground">@color/primaryDark</item>
 
     </style>
 
@@ -46,7 +47,7 @@
     </declare-styleable>
 
 
-    <color name="colorMain">#EF6C00</color>
+    <color name="colorMain">#ef6c00</color>
     <color name="colorMainDark">#E65100</color>
     <color name="colorPrimaryDark">#EF6C00</color>
     <color name="colorMainAccent">#EF6C00</color>
