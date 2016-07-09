@@ -1,7 +1,7 @@
 package com.antonid.nomnom_plus.view;
 
-import android.app.Fragment;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -36,13 +36,9 @@ public class MainActivity extends BaseActivity implements IMainActivityView,
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        fragmentManager = getSupportFragmentManager();
-        EmptyFridgeFragment emptyFridgeFragment = new EmptyFridgeFragment();
 
-        fragmentManager.beginTransaction()
-                .replace(R.id.start_fragment_container, emptyFridgeFragment)
-                .commit();
     }
+
 
     @Override
     protected void setupComponent(IApplicationComponent appComponent) {
@@ -59,4 +55,13 @@ public class MainActivity extends BaseActivity implements IMainActivityView,
         return mainActivityComponent;
     }
 
+    @Override
+    public void setFragment(Fragment fragment) {
+        fragmentManager = getSupportFragmentManager();
+        // EmptyFridgeFragment emptyFridgeFragment = new EmptyFridgeFragment();
+
+        fragmentManager.beginTransaction()
+                .replace(R.id.start_fragment_container, fragment)
+                .commit();
+    }
 }

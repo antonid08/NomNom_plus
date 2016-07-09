@@ -1,6 +1,7 @@
 package com.antonid.nomnom_plus.di.modules;
 
 import com.antonid.nomnom_plus.presenter.EmptyFridgeFragmentPresenter;
+import com.antonid.nomnom_plus.presenter.FullFridgeFragmentPresenter;
 import com.antonid.nomnom_plus.presenter.MainActivityPresenter;
 import com.antonid.nomnom_plus.view.IMainActivityView;
 
@@ -33,6 +34,11 @@ public class MainActivityModule {
     @Provides
     public EmptyFridgeFragmentPresenter provideEmptyFridgeFragmentPresenter() {
         return new EmptyFridgeFragmentPresenter();
+    }
+
+    @Provides
+    public FullFridgeFragmentPresenter provideFullFridgeFragmentPresenter(){
+        return new FullFridgeFragmentPresenter();
     }
 /*
     @Provides
