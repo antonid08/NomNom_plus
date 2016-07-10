@@ -40,14 +40,4 @@ public class MainActivityModule {
     public FullFridgeFragmentPresenter provideFullFridgeFragmentPresenter(){
         return new FullFridgeFragmentPresenter();
     }
-/*
-    @Provides
-    public DetailFragmentPresenterImpl provideDetailFragmentPresenterImpl() {
-        return new DetailFragmentPresenterImpl();
-    }
-
-    @Provides
-    public ShowFragmentPresenterImpl provideShowFragmentPresenterImpl(){
-        return new ShowFragmentPresenterImpl();
-    }*/
 }

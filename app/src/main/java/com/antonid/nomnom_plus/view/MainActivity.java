@@ -35,8 +35,6 @@ public class MainActivity extends BaseActivity implements IMainActivityView,
 
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-
     }
 
 

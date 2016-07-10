@@ -9,10 +9,13 @@ import java.util.Stack;
 public class Ingredient {
     private String name;
     private ArrayList<Integer> recipes;
+    private boolean isChecked;
 
-    public Ingredient(String name, String recipes){
+    public Ingredient(String name, String recipes, int isChecked){
         this.name = name;
         this.recipes = parseRecipesString(recipes);
+        this.isChecked = isChecked == 1;
+
     }
 
     private ArrayList<Integer> parseRecipesString(String recipes){

@@ -20,7 +20,6 @@ import java.util.List;
 public class Database {
     private SQLiteOpenHelper openHelper;
     private SQLiteDatabase database;
-    private static Database instance;
 
 
     public static abstract class IngredientsTable implements BaseColumns{
@@ -68,27 +67,21 @@ public class Database {
         private static final String EXAMPLE = "example";
     }
 
-    /**
-     * Private constructor to avoid object creation from outside classes.
-     *
-     * @param context
-     */
-    private Database(Context context) {
+
+    public Database(Context context) {
         this.openHelper = new DatabaseOpenHelper(context);
+        open();
     }
 
-    /**
-     * Return a singleton instance of DatabaseAccess.
-     *
-     * @param context the Context
-     * @return the instance of DabaseAccess
-     */
-    public static Database getInstance(Context context) {
+
+/*
+    public  Database getInstance(Context context) {
         if (instance == null) {
             instance = new Database(context);
         }
         return instance;
     }
+*/
 
     /**
      * Open the database connection.
@@ -120,13 +113,34 @@ public class Database {
                 new String[] { name}, null, null, null, null);
         try {
             cursor.moveToFirst();
-            Ingredient ingredient = new Ingredient(cursor.getString(1), cursor.getString(2));
+            Ingredient ingredient = new Ingredient(cursor.getString(1), cursor.getString(2),
+                    cursor.getInt(3));
             return ingredient;
         } catch (NullPointerException e){
             throw new NullPointerException("Maybe there are not results for this name in database.");
         } finally {
             cursor.close();
         }
+    }
+
+    public ArrayList<Ingredient> getSelectedIngredients(){
+        ArrayList<Ingredient> selectedIngredients = new ArrayList<>();
+
+        Cursor cursor = database.query(IngredientsTable.TABLE_NAME,
+                ingredientColums, IngredientsTable.NAME + "=?",
+                null, null, null, null, null);
+
+        cursor.moveToFirst();
+        if (!cursor.isAfterLast()){
+            do {
+                if (cursor.getInt(3) != 0) {
+                    selectedIngredients.add(new Ingredient(cursor.getString(1), cursor.getString(2),
+                            cursor.getInt(3)));
+                }
+            } while (cursor.moveToNext());
+        }
+        cursor.close();
+        return selectedIngredients;
     }
 }
 
